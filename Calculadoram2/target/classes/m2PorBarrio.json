@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Belgrano",
+    "precio": 1000
+  },
+  {
+    "nombre": "Balvanera",
+    "precio": 600
+  },
+  {
+    "nombre": "Palermo",
+    "precio": 1200
+  },
+  {
+    "nombre": "Centro",
+    "precio": 500
+  },
+  {
+    "nombre": "Urquiza",
+    "precio": 1400
+  }
+]
